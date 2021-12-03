@@ -1,0 +1,5 @@
+[submodule "themes/yun"]
+    # 主题路径
+    path = themes/yun
+    # 主题的仓库地址
+    url = https://github.com/YunYouJun/hexo-theme-yun
